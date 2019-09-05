@@ -1,0 +1,4 @@
+requests
+service
+mypy
+black
